@@ -1,0 +1,5 @@
+package com.Aparna.configuration;
+
+public class SwaggerConfig {
+
+}

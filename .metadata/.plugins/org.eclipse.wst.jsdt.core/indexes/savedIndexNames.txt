@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\swagger Programs\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3779083981.index
+1006201649.index
+2735843046.index
+981275986.index
+2125180049.index
